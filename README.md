@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about any tech stuff and human psychology🐰
 - 📫 How to reach me: @gokularumugam64@gmail.com Twitter - @gokularumugam05
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: "YOLO, I live only in night!"
+- ⚡ Fun fact: "YOLO, I live only in night!" 
 -->
