@@ -11,7 +11,7 @@
 - 🤔 I’m looking for people who can help me to increase my curiosity...
 - 💬 Ask me about any tech stuff and human psychology🐰
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/gokularumugam-theanalyst/) , [Twitter](https://twitter.com/gokularumugam05)
-- ⚡ Fun fact: "Keep your distracting addiction close by so you can concentrate on what you're looking for!" 
+- ⚡ Fun fact: "Keep your distracting addictions close by so you can concentrate on what you're looking for!" 
 
 
 <h3 align="left">🖥️ Languages and Tools: 🛠️</h3>
