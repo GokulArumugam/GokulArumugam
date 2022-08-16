@@ -1,4 +1,4 @@
-<h1 align="center">Hello There 👋, I'm Gokul Attarde</h1>
+<h1 align="center">Hello There 👋, I'm Gokul </h1>
 <h3 align="center">A passionate Data Analyst from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lokesh-attarde&label=Profile%20views&color=0e75b6&style=flat" alt="lokesh-attarde" /> </p>
