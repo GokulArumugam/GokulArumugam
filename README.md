@@ -22,6 +22,7 @@
     <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
     <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
     <a href="https://www.analytixlabs.co.in/blog/r-programming-language-basics/" target="_blank"> <img src="https://www.analytixlabs.co.in/blog/wp-content/uploads/2022/01/Banner-Image-2.png" alt="R" width="40" height="40"/> </a>
+    <a href="https://www.metrixdatascience.com/classes" target="_blank"> <img src="https://images.squarespace-cdn.com/content/v1/587670ef03596ec731de6e3d/1486276069386-ENNKG7EAXQBUZHPMEY37/Tableau+Logo.png?format=750w" alt="R" width="40" height="40"/> </a>
     
 </p>
 
