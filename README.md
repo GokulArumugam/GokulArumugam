@@ -21,7 +21,8 @@
     <a href="https://numpy.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/50221806/86498201-a8bd8680-bd39-11ea-9d08-66b610a8dc01.png" alt="numpy" width="40" height="40"/> </a>
     <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
     <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-
+    <a href="https://www.mysql.com/" target="_blank"> <img src="https://en.wikipedia.org/wiki/R_%28programming_language%29#/media/File:R_logo.svg" alt="R" width="40" height="40"/> </a>
+    
 </p>
 
 ### ✨ Github Stats
