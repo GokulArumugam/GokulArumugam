@@ -1,7 +1,7 @@
 <h1 align="center">Hello There 👋, I'm Gokul </h1>
 <h3 align="center">A passionate Data Analyst from India.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lokesh-attarde&label=Profile%20views&color=0e75b6&style=flat" alt="lokesh-attarde" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=GokulArumugame&label=Profile%20views&color=0e75b6&style=flat" alt="GokulArumugam" /> </p>
 
 <img align="right" alt="Coding" width="450" height="350" src="https://user-images.githubusercontent.com/84115928/142569072-22fdc7ac-5815-4e96-b84d-f918a85d47ec.gif">
 
