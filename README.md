@@ -23,10 +23,3 @@
     <a href="https://www.metrixdatascience.com/classes" target="_blank"> <img src="https://images.squarespace-cdn.com/content/v1/587670ef03596ec731de6e3d/1486276069386-ENNKG7EAXQBUZHPMEY37/Tableau+Logo.png?format=750w" alt="R" width="40" height="40"/> </a>
     
 </p>
-
-### ✨ Github Stats
-
-<p float="left">
-  <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=GokulArumugam&show_icons=true&theme=gotham" alt="GokulArumugam" width="500" />
-  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=GokulArumugam&theme=radical&show_icons=true" alt="GokulArumugam" width="500" />
-</p>  
