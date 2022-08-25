@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GokulArumugame&label=Profile%20views&color=0e75b6&style=flat" alt="GokulArumugam" /> </p>
 
-- 🔭 I’m currently seeking truth with the help of data!
+- 🔭 I’m a meddling Data Analyst who is currently looking for truth with the Help of DATA!
 - 🌱 I’m currently learning Big data technologies and it's frameworks on cloud  
 - 📚 Areas of Interest: **Python, Data Cleaning/Cleansing, Data Visualization, Data Analysis, SQL, Tableau, Google Data Studio.**
 - 🤔 I’m looking for people who can help me to increase my curiosity...
