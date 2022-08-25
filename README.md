@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GokulArumugame&label=Profile%20views&color=0e75b6&style=flat" alt="GokulArumugam" /> </p>
 
-<img align="right" alt="Coding" width="450" height="350" src="https://user-images.githubusercontent.com/84115928/142569072-22fdc7ac-5815-4e96-b84d-f918a85d47ec.gif">
-
 - 🔭 I’m currently seeking truth with the help of data!
 - 🌱 I’m currently learning Big data technologies and it's frameworks on cloud  
 - 📚 Areas of Interest: **Python, Data Cleaning/Cleansing, Data Visualization, Data Analysis, SQL, Tableau, Google Data Studio.**
